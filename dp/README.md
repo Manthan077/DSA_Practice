@@ -31,7 +31,11 @@ A problem fits DP if it has:
 
 | Pattern | Time | Space |
 |---------|------|-------|
-| | | |
+| 1D DP | O(n) | O(n) or O(1) |
+| 2D DP | O(n²) | O(n²) or O(n) |
+| Knapsack | O(n × W) | O(n × W) or O(W) |
+| Interval DP | O(n³) | O(n²) |
+| Bitmask DP | O(2ⁿ × n) | O(2ⁿ × n) |
 
 ---
 
@@ -40,8 +44,4 @@ A problem fits DP if it has:
 - Longest common subsequence, LIS
 - 0/1 knapsack, partition equal subset
 - Edit distance, burst balloons, palindrome partitioning
-
----
-
-## Progress
 
