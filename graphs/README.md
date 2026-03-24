@@ -31,7 +31,14 @@ A graph is a set of vertices connected by edges. Unlike trees, graphs can have c
 
 | Algorithm | Time | Space |
 |-----------|------|-------|
-| | | |
+| BFS | O(V + E) | O(V) |
+| DFS | O(V + E) | O(V) |
+| Topological Sort | O(V + E) | O(V) |
+| Dijkstra | O((V + E) log V) | O(V) |
+| Bellman-Ford | O(V × E) | O(V) |
+| Floyd-Warshall | O(V³) | O(V²) |
+| Kruskal | O(E log E) | O(V) |
+| Prim | O((V + E) log V) | O(V) |
 
 ---
 
@@ -39,8 +46,4 @@ A graph is a set of vertices connected by edges. Unlike trees, graphs can have c
 - Number of islands, detect cycle, bipartite check
 - Course schedule (topological sort), word ladder (BFS)
 - Dijkstra shortest path, critical connections
-
----
-
-## Progress
 
