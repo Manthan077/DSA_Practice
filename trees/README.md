@@ -15,20 +15,23 @@ A tree is a hierarchical data structure made of nodes connected by edges, with n
 ---
 
 ## Traversals
-| Type | Order | Use Case |
-|------|-------|----------|
-| Inorder | Left → Root → Right | Sorted output from BST |
-| Preorder | Root → Left → Right | Serialize / copy a tree |
-| Postorder | Left → Right → Root | Delete tree, expression eval |
-| Level-order | Level by level | Shortest path, level-wise processing |
+| Type | Order | Use Case | File |
+|------|-------|----------|------|
+| Preorder | Root → Left → Right | Serialize / copy a tree | [01. preorder.cpp](./01.%20preorder.cpp) |
+| Inorder | Left → Root → Right | Sorted output from BST | [02. inorder.cpp](./02.%20inorder.cpp) |
+| Postorder | Left → Right → Root | Delete tree, expression eval | [03. postorder.cpp](./03.%20postorder.cpp) |
+| Level-order | Level by level | Shortest path, level-wise processing | [04. levelorder.cpp](./04.%20levelorder.cpp) |
 
 ---
 
 ## Complexities
 
-| Operation | Time | Space |
+| Traversal | Time | Space |
 |-----------|------|-------|
-| | | |
+| Preorder | O(n) | O(n) |
+| Inorder | O(n) | O(n) |
+| Postorder | O(n) | O(n) |
+| Level-order | O(n) | O(n) |
 
 ---
 
@@ -36,8 +39,4 @@ A tree is a hierarchical data structure made of nodes connected by edges, with n
 - Height, diameter, lowest common ancestor (LCA)
 - Validate BST, serialize/deserialize
 - Path sum, right side view, construct from traversals
-
----
-
-## Progress
 
