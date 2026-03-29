@@ -26,12 +26,16 @@ A tree is a hierarchical data structure made of nodes connected by edges, with n
 
 ## Complexities
 
-| Traversal | Time | Space |
-|-----------|------|-------|
-| Preorder | O(n) | O(n) |
-| Inorder | O(n) | O(n) |
-| Postorder | O(n) | O(n) |
-| Level-order | O(n) | O(n) |
+| Problem / Traversal | Time | Space |
+|--------------------|------|-------|
+| Preorder           | O(n) | O(n) |
+| Inorder            | O(n) | O(n) |
+| Postorder          | O(n) | O(n) |
+| Level-order        | O(n) | O(n) |
+| Maximum Depth      | O(n) | O(h) |
+| Balanced Binary Tree | O(n) | O(h) |
+| Diameter of Tree   | O(n) | O(h) |
+| Maximum Path Sum   | O(n) | O(h) |
 
 ---
 
