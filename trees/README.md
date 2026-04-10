@@ -14,33 +14,33 @@ A tree is a hierarchical data structure made of nodes connected by edges, with n
 
 ---
 
-## Traversals
-| Type | Order | Use Case | File |
-|------|-------|----------|------|
-| Preorder | Root → Left → Right | Serialize / copy a tree | [01. preorder.cpp](./01.%20preorder.cpp) |
-| Inorder | Left → Root → Right | Sorted output from BST | [02. inorder.cpp](./02.%20inorder.cpp) |
-| Postorder | Left → Right → Root | Delete tree, expression eval | [03. postorder.cpp](./03.%20postorder.cpp) |
-| Level-order | Level by level | Shortest path, level-wise processing | [04. levelorder.cpp](./04.%20levelorder.cpp) |
+## Traversal Order
+| Type | Order |
+|------|-------|
+| Preorder | Root → Left → Right |
+| Inorder | Left → Root → Right |
+| Postorder | Left → Right → Root |
+| Level-order | Level by level |
 
 ---
 
-## Complexities
+## Problems
 
-| Problem / Traversal | Time | Space |
-|--------------------|------|-------|
-| Preorder           | O(n) | O(n) |
-| Inorder            | O(n) | O(n) |
-| Postorder          | O(n) | O(n) |
-| Level-order        | O(n) | O(n) |
-| Maximum Depth      | O(n) | O(h) |
-| Balanced Binary Tree | O(n) | O(h) |
-| Diameter of Tree   | O(n) | O(h) |
-| Maximum Path Sum   | O(n) | O(h) |
-
----
-
-## Key Problems
-- Height, diameter, lowest common ancestor (LCA)
-- Validate BST, serialize/deserialize
-- Path sum, right side view, construct from traversals
+| # | Problem | Time | Space | File |
+|---|---------|------|-------|------|
+| 01 | Preorder Traversal | O(n) | O(n) | [preorder.cpp](./01.%20preorder.cpp) |
+| 02 | Inorder Traversal | O(n) | O(n) | [inorder.cpp](./02.%20inorder.cpp) |
+| 03 | Postorder Traversal | O(n) | O(n) | [postorder.cpp](./03.%20postorder.cpp) |
+| 04 | Level Order Traversal | O(n) | O(n) | [levelorder.cpp](./04.%20levelorder.cpp) |
+| 05 | Maximum Depth | O(n) | O(h) | [MaximumDepth.cpp](./05.%20MaximumDepth.cpp) |
+| 06 | Balanced Binary Tree | O(n) | O(h) | [BalancedBinaryTree.cpp](./06.%20BalancedBinaryTree.cpp) |
+| 07 | Diameter of Tree | O(n) | O(h) | [Diameter.cpp](./07.%20Diameter.cpp) |
+| 08 | Maximum Path Sum | O(n) | O(h) | [MaxPathSum.cpp](./08.%20MaxPathSum.cpp) |
+| 09 | Building Tree | O(n) | O(n) | [BuildingTree.cpp](./09.%20BuildingTree.cpp) |
+| 10 | Lowest Common Ancestor | O(n) | O(h) | [LCA.cpp](./10.%20LCA.cpp) |
+| 11 | Right Side View | O(n) | O(h) | [RightSideView.cpp](./11.%20RightSideView.cpp) |
+| 12 | Top View | O(n log n) | O(n) | [TopView.cpp](./12.%20TopView.cpp) |
+| 13 | Vertical Order Traversal | O(n log n) | O(n) | [VerticalOrderTraversal.cpp](./13.%20VerticalOrderTraversal.cpp) |
+| 14 | Validate BST | O(n) | O(h) | [ValidateBST.cpp](./14.%20ValidateBST.cpp) |
+| 15 | Insert in BST | O(h) | O(h) | [Insert in BST.cpp](./15.%20Insert%20in%20BST.cpp) |
 
