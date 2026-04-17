@@ -43,4 +43,5 @@ A tree is a hierarchical data structure made of nodes connected by edges, with n
 | 13 | Vertical Order Traversal | O(n log n) | O(n) | [VerticalOrderTraversal.cpp](./13.%20VerticalOrderTraversal.cpp) |
 | 14 | Validate BST | O(n) | O(h) | [ValidateBST.cpp](./14.%20ValidateBST.cpp) |
 | 15 | Insert in BST | O(h) | O(h) | [Insert in BST.cpp](./15.%20Insert%20in%20BST.cpp) |
+| 18 | Kth Smallest in BST | O(n) | O(h) | [Kth Smallest Element in a BST.cpp](./18.%20Kth%20Smallest%20Element%20in%20a%20BST.cpp) |
 
