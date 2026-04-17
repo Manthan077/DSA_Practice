@@ -27,21 +27,12 @@ A problem fits DP if it has:
 
 ---
 
-## Complexities
+## Problems
 
-| Pattern | Time | Space |
-|---------|------|-------|
-| 1D DP | O(n) | O(n) or O(1) |
-| 2D DP | O(n²) | O(n²) or O(n) |
-| Knapsack | O(n × W) | O(n × W) or O(W) |
-| Interval DP | O(n³) | O(n²) |
-| Bitmask DP | O(2ⁿ × n) | O(2ⁿ × n) |
-
----
-
-## Key Problems
-- Coin change, house robber, word break
-- Longest common subsequence, LIS
-- 0/1 knapsack, partition equal subset
-- Edit distance, burst balloons, palindrome partitioning
+| # | Problem | Time | Space | File |
+|---|---------|------|-------|------|
+| 01 | Fibonacci | O(n) | O(1) | [Fibonacci.cpp](./01.%20Fibonacci.cpp) |
+| 02 | Climbing Stairs | O(n) | O(1) | [Climbing Stairs.cpp](./02.%20Climbing%20Stairs.cpp) |
+| 03 | Min Cost Climbing Stairs | O(n) | O(1) | [Min cost climbing stairs.cpp](./03.%20Min%20cost%20climbing%20stairs.cpp) |
+| 04 | House Robber | O(n) | O(1) | [House Robber.cpp](./04.%20House%20Robber.cpp) |
 
