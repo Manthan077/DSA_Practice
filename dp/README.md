@@ -42,4 +42,10 @@ A problem fits DP if it has:
 | 09 | Unique Paths | O(m × n) | O(n) | [Unique Paths.cpp](./09.%20Unique%20Paths.cpp) |
 | 10 | Unique Paths II | O(m × n) | O(n) | [Unique Paths II.cpp](./10.%20Unique%20Paths%20II.cpp) |
 | 11 | Minimum Path Sum | O(m × n) | O(n) | [Minimum Path Sum.cpp](./11.%20Minimum%20Path%20Sum.cpp) |
+| 12 | Triangle | O(n²) | O(n) | [Triangle.cpp](./12.%20Triangle.cpp) |
+| 13 | Minimum Falling Path Sum | O(n²) | O(n) | [Minimum Falling Path Sum.cpp](./13.%20Minimum%20Falling%20Path%20Sum.cpp) |
+| 14 | 0/1 Knapsack | O(n × W) | O(W) | [0,1 Knapsack.cpp](./14.%200%2C1%20Knapsack.cpp) |
+| 15 | Subset Sum Problem | O(n × k) | O(k) | [Subset Sum Problem.cpp](./15.%20Subset%20Sum%20Problem.cpp) |
+| 16 | Partition Equal Subset Sum | O(n × sum) | O(sum) | [Partition Equal Subset Sum.cpp](./16.%20Partition%20Equal%20Subset%20Sum.cpp) |
+| 17 | Count Subsets with Sum K | O(n × k) | O(k) | [Count Subsets with Sum K.cpp](./17.%20Count%20Subsets%20with%20Sum%20K.cpp) |
 
