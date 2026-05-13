@@ -48,4 +48,9 @@ A problem fits DP if it has:
 | 15 | Subset Sum Problem | O(n × k) | O(k) | [Subset Sum Problem.cpp](./15.%20Subset%20Sum%20Problem.cpp) |
 | 16 | Partition Equal Subset Sum | O(n × sum) | O(sum) | [Partition Equal Subset Sum.cpp](./16.%20Partition%20Equal%20Subset%20Sum.cpp) |
 | 17 | Count Subsets with Sum K | O(n × k) | O(k) | [Count Subsets with Sum K.cpp](./17.%20Count%20Subsets%20with%20Sum%20K.cpp) |
+| 18 | Target Sum | O(n × k) | O(k) | [Target Sum.cpp](./18.%20Target%20Sum.cpp) |
+| 19 | Unbounded Knapsack | O(n × W) | O(W) | [Unbounded Knapsack.cpp](./19.%20Unbounded%20Knapsack.cpp) |
+| 20 | Coin Change | O(n × amount) | O(amount) | [Coin Change.cpp](./20.%20Coin%20Change.cpp) |
+| 21 | Longest Increasing Subsequence | O(n²) | O(n) | [LIS.cpp](./21.)%20Longest%20Increasing%20Subsequence%20(LIS).cpp) |
+| 22 | Longest Common Subsequence | O(n × m) | O(n × m) | [LCS.cpp](./22.)%20Longest%20Common%20Subsequence%20(LCS).cpp) |
 
