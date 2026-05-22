@@ -53,4 +53,11 @@ A problem fits DP if it has:
 | 20 | Coin Change | O(n × amount) | O(amount) | [Coin Change.cpp](./20.%20Coin%20Change.cpp) |
 | 21 | Longest Increasing Subsequence | O(n²) | O(n) | [LIS.cpp](./21.)%20Longest%20Increasing%20Subsequence%20(LIS).cpp) |
 | 22 | Longest Common Subsequence | O(n × m) | O(n × m) | [LCS.cpp](./22.)%20Longest%20Common%20Subsequence%20(LCS).cpp) |
+| 23 | Edit Distance | O(n × m) | O(n × m) | [Edit Distance.cpp](./23.)%20Edit%20Distance.cpp) |
+| 24 | Best Time to Buy and Sell Stock | O(n) | O(1) | [Stock I.cpp](./24.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp) |
+| 25 | Best Time to Buy and Sell Stock II | O(n) | O(n) | [Stock II.cpp](./25.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp) |
+| 26 | Stock with Transaction Fee | O(n) | O(n) | [Stock Fee.cpp](./26.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp) |
+| 27 | Best Time to Buy and Sell Stock III | O(n) | O(n) | [Stock III.cpp](./27.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.cpp) |
+| 28 | Matrix Chain Multiplication | O(n³) | O(n²) | [MCM.cpp](./28.%20Matrix%20Chain%20Multiplication%20(MCM).cpp) |
+| 29 | Burst Balloons | O(n³) | O(n²) | [Burst Balloons.cpp](./29.%20Burst%20Balloons.cpp) |
 
