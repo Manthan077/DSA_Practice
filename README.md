@@ -22,6 +22,6 @@ Mastering these gives a strong foundation to tackle most medium and hard level p
 ## Approach
 
 - Understand the core concept before jumping into problems
-- Start with easy problems, move to medium once comfortable
+- Start with easy problems, move to medium once comfortable and then to hard problems 
 - Note down time and space complexities for every pattern learned
 - Revisit problems that were solved with hints
