@@ -27,23 +27,19 @@ A graph is a set of vertices connected by edges. Unlike trees, graphs can have c
 
 ---
 
-## Complexities
+## Problems
 
-| Algorithm | Time | Space |
-|-----------|------|-------|
-| BFS | O(V + E) | O(V) |
-| DFS | O(V + E) | O(V) |
-| Topological Sort | O(V + E) | O(V) |
-| Dijkstra | O((V + E) log V) | O(V) |
-| Bellman-Ford | O(V × E) | O(V) |
-| Floyd-Warshall | O(V³) | O(V²) |
-| Kruskal | O(E log E) | O(V) |
-| Prim | O((V + E) log V) | O(V) |
-
----
-
-## Key Problems
-- Number of islands, detect cycle, bipartite check
-- Course schedule (topological sort), word ladder (BFS)
-- Dijkstra shortest path, critical connections
+| # | Problem | Time | Space | File |
+|---|---------|------|-------|------|
+| 01 | Graph Representation | O(V + E) | O(V + E) | [Graph Representation.cpp](./01.%20Graph%20Representation.cpp) |
+| 02 | DFS | O(V + E) | O(V) | [DFS.cpp](./02.%20DFS.cpp) |
+| 03 | BFS | O(V + E) | O(V) | [BFS.cpp](./03.%20BFS.cpp) |
+| 04 | Connected Components | O(V + E) | O(V) | [Connected Components.cpp](./04.%20Connected%20Components.cpp) |
+| 05 | Number of Islands | O(n × m) | O(n × m) | [Number of Islands.cpp](./05.%20Number%20of%20Islands.cpp) |
+| 06 | Flood Fill | O(n × m) | O(n × m) | [Flood Fill.cpp](./06.%20Flood%20Fill.cpp) |
+| 07 | Cycle Detection Undirected (BFS) | O(V + E) | O(V) | [Cycle Detection Undirected.cpp](./07.%20Cycle%20Detection%20in%20Undirected%20Graph.cpp) |
+| 08 | Cycle Detection Undirected (DFS) | O(V + E) | O(V) | [Cycle Detection Undirected DFS.cpp](./08.%20Cycle%20Detection%20in%20Undirected%20Graph%20(DFS).cpp) |
+| 09 | Cycle Detection Directed (DFS) | O(V + E) | O(V) | [Cycle Detection Directed.cpp](./09.%20Cycle%20Detection%20in%20Directed%20Graph%20(DFS).cpp) |
+| 10 | Topological Sort (Kahn's) | O(V + E) | O(V) | [Topological Sort Kahn.cpp](./10.%20Topological%20Sort%20(Kahn%27s%20Algorithm).cpp) |
+| 11 | Topological Sort (DFS) | O(V + E) | O(V) | [Topological Sort DFS.cpp](./11.%20DFS%20Topological%20Sort%20(Stack).cpp) |
 
