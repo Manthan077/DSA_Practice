@@ -42,4 +42,10 @@ A graph is a set of vertices connected by edges. Unlike trees, graphs can have c
 | 09 | Cycle Detection Directed (DFS) | O(V + E) | O(V) | [Cycle Detection Directed.cpp](./09.%20Cycle%20Detection%20in%20Directed%20Graph%20(DFS).cpp) |
 | 10 | Topological Sort (Kahn's) | O(V + E) | O(V) | [Topological Sort Kahn.cpp](./10.%20Topological%20Sort%20(Kahn%27s%20Algorithm).cpp) |
 | 11 | Topological Sort (DFS) | O(V + E) | O(V) | [Topological Sort DFS.cpp](./11.%20DFS%20Topological%20Sort%20(Stack).cpp) |
+| 12 | Shortest Path in Unweighted Graph | O(V + E) | O(V) | [Shortest Path Unweighted.cpp](./12.%20Shortest%20Path%20in%20Unweighted%20Graph.cpp) |
+| 13 | Dijkstra Algorithm | O((V + E) log V) | O(V) | [Dijkstra Algorithm.cpp](./13.%20Dijkstra%20Algorithm.cpp) |
+| 14 | Bellman Ford Algorithm | O(V × E) | O(V) | [Bellman Ford Algorithm.cpp](./14.%20Bellman%20Ford%20Algorithm.cpp) |
+| 15 | Floyd Warshall Algorithm | O(V³) | O(V²) | [Floyd Warshall Algorithm.cpp](./15.%20Floyd%20Warshall%20Algorithm.cpp) |
+| 16 | Disjoint Set Union | O(α(n)) | O(V) | [Disjoint Set Union.cpp](./16.%20Disjoint%20Set%20Union.cpp) |
+| 17 | Redundant Connection | O(E × α(n)) | O(V) | [Redundant Connection.cpp](./17.%20Redundant%20Connection.cpp) |
 
