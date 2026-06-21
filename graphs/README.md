@@ -48,4 +48,9 @@ A graph is a set of vertices connected by edges. Unlike trees, graphs can have c
 | 15 | Floyd Warshall Algorithm | O(V³) | O(V²) | [Floyd Warshall Algorithm.cpp](./15.%20Floyd%20Warshall%20Algorithm.cpp) |
 | 16 | Disjoint Set Union | O(α(n)) | O(V) | [Disjoint Set Union.cpp](./16.%20Disjoint%20Set%20Union.cpp) |
 | 17 | Redundant Connection | O(E × α(n)) | O(V) | [Redundant Connection.cpp](./17.%20Redundant%20Connection.cpp) |
+| 18 | Accounts Merge | O(n × m × α(n)) | O(n) | [Accounts Merge.cpp](./18.%20Accounts%20Merge.cpp) |
+| 19 | Kruskal's Algorithm | O(E log E) | O(V) | [Kruskal's Algorithm.cpp](./19.%20Kruskal%27s%20Algorithm.cpp) |
+| 20 | Prim's Algorithm | O((V + E) log V) | O(V) | [Prim's Algorithm.cpp](./20.%20Prim%27s%20Algorithm.cpp) |
+| 21 | Number of Provinces using DSU | O(V² × α(n)) | O(V) | [Number of Provinces using DSU.cpp](./21.%20Number%20of%20Provinces%20using%20DSU.cpp) |
+| 22 | Number of Operations to Make Network Connected | O(E × α(n)) | O(V) | [Network Connected.cpp](./22.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp) |
 
