@@ -53,4 +53,7 @@ A graph is a set of vertices connected by edges. Unlike trees, graphs can have c
 | 20 | Prim's Algorithm | O((V + E) log V) | O(V) | [Prim's Algorithm.cpp](./20.%20Prim%27s%20Algorithm.cpp) |
 | 21 | Number of Provinces using DSU | O(V² × α(n)) | O(V) | [Number of Provinces using DSU.cpp](./21.%20Number%20of%20Provinces%20using%20DSU.cpp) |
 | 22 | Number of Operations to Make Network Connected | O(E × α(n)) | O(V) | [Network Connected.cpp](./22.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp) |
+| 23 | Bridges in Graph (Tarjan's) | O(V + E) | O(V) | [Bridges in Graph.cpp](./23.%20Bridges%20in%20Graph%20(Tarjan%27s%20Algorithm).cpp) |
+| 24 | Articulation Point (Cut Vertex) | O(V + E) | O(V) | [Articulation Point.cpp](./24.%20Articulation%20Point%20(Cut%20Vertex).cpp) |
+| 25 | Kosaraju Algorithm | O(V + E) | O(V) | [Kosaraju Algorithm.cpp](./25.%20Kosaraju%20Algorithm.cpp) |
 
