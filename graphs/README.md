@@ -56,4 +56,11 @@ A graph is a set of vertices connected by edges. Unlike trees, graphs can have c
 | 23 | Bridges in Graph (Tarjan's) | O(V + E) | O(V) | [Bridges in Graph.cpp](./23.%20Bridges%20in%20Graph%20(Tarjan%27s%20Algorithm).cpp) |
 | 24 | Articulation Point (Cut Vertex) | O(V + E) | O(V) | [Articulation Point.cpp](./24.%20Articulation%20Point%20(Cut%20Vertex).cpp) |
 | 25 | Kosaraju Algorithm | O(V + E) | O(V) | [Kosaraju Algorithm.cpp](./25.%20Kosaraju%20Algorithm.cpp) |
+| 26 | Word Ladder | O(N × L × 26) | O(N) | [Word Ladder.cpp](./26.%20Word%20Ladder.cpp) |
+| 27 | Alien Dictionary | O(V + E) | O(V) | [Alien Dictionary.cpp](./27.%20Alien%20Dictionary.cpp) |
+| 28 | Course Schedule I | O(V + E) | O(V) | [Course Schedule I.cpp](./28.%20Course%20Schedule%20I.cpp) |
+| 29 | Course Schedule II | O(V + E) | O(V) | [Course Schedule II.cpp](./29.%20Course%20Schedule%20II.cpp) |
+| 30 | Rotting Oranges | O(n × m) | O(n × m) | [Rotting Oranges.cpp](./30.%20Rotting%20Oranges.cpp) |
+| 31 | 01 Matrix | O(n × m) | O(n × m) | [01 Matrix.cpp](./31.%2001%20Matrix.cpp) |
+| 32 | Cheapest Flights Within K Stops | O(E × K) | O(V) | [Cheapest Flights Within K Stops.cpp](./32.%20Cheapest%20Flights%20Within%20K%20Stops.cpp) |
 
